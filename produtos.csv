@@ -1,0 +1,6 @@
+﻿id,nome,preco,descricao,categoria,nichos,informacoes_nutricionais,ingredientes,corredor,prateleira,imagem,receita
+101,Arroz Integral 1kg,"R$ 8,90",Arroz integral para refeições do dia a dia.,Mercearia,"Vegano, Sem glúten",Consulte a tabela nutricional na embalagem do produto.,Arroz integral.,2,3,,Sugestão: arroz integral com legumes.
+102,Leite UHT Sem Lactose 1L,"R$ 5,79",Leite UHT sem lactose.,Laticínios,Sem lactose,Consulte a tabela nutricional na embalagem do produto.,Leite e enzima lactase.,4,2,,Sugestão: vitamina com banana.
+103,Feijão Carioca 1kg,"R$ 7,49",Feijão carioca selecionado.,Mercearia,"Vegano, Sem glúten",Consulte a tabela nutricional na embalagem do produto.,Feijão carioca.,2,1,,Sugestão: feijão cozido com alho e cebola.
+104,Macarrão de Milho 500g,"R$ 6,99",Massa feita à base de milho.,Massas,Sem glúten,Consulte a tabela nutricional na embalagem do produto.,Farinha de milho.,3,4,,Sugestão: macarrão com molho de tomate.
+105,Grão-de-bico 500g,"R$ 9,50",Grão-de-bico seco para diferentes preparações.,Grãos,"Vegano, Sem glúten",Consulte a tabela nutricional na embalagem do produto.,Grão-de-bico.,2,5,,Sugestão: salada de grão-de-bico.

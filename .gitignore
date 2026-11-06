@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+credenciais.json
+credentials.json
+service-account*.json
+qrcodes/*.png
+.DS_Store
