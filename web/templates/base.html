@@ -1,0 +1,3 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#14532d"><title>{% block title %}SmartMarket{% endblock %}</title><link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"></head>
+<body><header class="topbar"><a class="brand" href="{{ url_for('index') }}"><span class="brand-mark">S</span> SmartMarket</a><span class="tagline">Seu mercado, mais simples.</span></header><main>{% block content %}{% endblock %}</main><footer>SmartMarket · Informação ao alcance de todos</footer><script src="{{ url_for('static', filename='js/app.js') }}"></script></body></html>
