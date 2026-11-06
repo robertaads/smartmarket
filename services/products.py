@@ -2,7 +2,7 @@
 import csv, json, os
 from pathlib import Path
 
-BASE_DIR = Path(__file__).resolve().parents[2]
+BASE_DIR = Path(__file__).resolve().parents[1]
 CSV_PATH = BASE_DIR / 'data' / 'produtos.csv'
 
 def _normalizar(row):
